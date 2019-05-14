@@ -1,0 +1,10 @@
+project_name = "" // specify the project name
+vpc_region = "" // specify the region
+vpc_name = "" // specify the vpc name
+vpc_description ="" // specify the description of the vpc
+subnet1_name = "" // specify the subnet name
+subnet1_description = "" //give the subnet a description
+subnet1_cidr = "" // give the subnete a cidr block
+vpc_firewall_name = "" // give the firewall a name
+vpc_firewall_description ="" // describe the firewall
+credentials_file = "" // specify the source of your service accout file

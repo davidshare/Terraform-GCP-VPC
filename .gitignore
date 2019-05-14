@@ -1,0 +1,4 @@
+terraform.tfvars
+service_account.json
+*.terraform
+*.tfstate*
